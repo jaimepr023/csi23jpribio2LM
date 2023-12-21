@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.tabla1 {
+	display: flex;
+	background-color: lightgreen;
+
+}
+
+label {
+	margin-right: 2rem;
+	float: left;
+	margin-right: 10%;
+}
+
+body {
+	background-color: mistyrose;
+}
+
+.tabla2 {
+	background-color: lightyellow;
+	display: block;
+}
+
+button {
+	transform: translateX(3px);
+	margin-right: 5px;
+}
+
+input {
+	background-color: red;
+}
+
+input:focus {
+	background-color: skyblue;
+}
